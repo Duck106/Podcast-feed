@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Private Podcast</title>
+    <description>Private podcast feed for personal listening.</description>
+    <link>https://YOUR-USERNAME.github.io/podcast-feed/</link>
+    <language>en-us</language>
+
+    <itunes:author>Rahul</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology"/>
+
+    <item>
+      <title>Lord of the Mysteries 2: Circle of Inevitability — Season 1</title>
+      <description>Lord of the Mysteries 2: Circle of Inevitability — Full Season 1 Explained in Hindi.</description>
+      <pubDate>Mon, 26 Oct 2026 12:00:00 GMT</pubDate>
+      <enclosure
+        url="https://drive-podcast.8ft7vp72py.workers.dev/?id=1mawNKYRz6G9LN6mtyImUA7R5E752aNtz"
+        length="3843018181"
+        type="video/mp4"/>
+      <guid isPermaLink="false">lord-of-the-mysteries-2-circle-of-inevitability-season-1</guid>
+    </item>
+  </channel>
+</rss>
